@@ -1,7 +1,5 @@
 ### Hi there 👋, I'm Aidan!
 
-[![Website](https://img.shields.io/website?label=yourwebsite.com&style=for-the-badge&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com/)
-
 
 ## I'm a Developer, Learner, and Creator!
 
@@ -11,13 +9,9 @@
 - 🥅 2023 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="yourusername Spotify Playing" width="350" />](https://open.spotify.com/user/yourusername)
-
 ### Connect with me:
 
-[<img align="left" alt="aidanberger | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />](https://www.linkedin.com/in/aidanberger/)
+[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/social/linkedin.png" />](https://www.linkedin.com/in/aidanberger/)
 
 <br />
 
