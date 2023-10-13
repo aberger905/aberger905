@@ -1,15 +1,12 @@
-### Hi there 👋, I'm Aidan!
+## Hi 👋, I'm Aidan!
 
-- 🔭 I’m currently working on [My Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning everything 
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🎨 I’m currently building a mobile application with react native
+- 🚀 I’m currently learning Bun 
+- 🦉 I’m always looking to contribute to Open-Souce Projects
+- 💬 Ask me about React, System Design, Message Brokers
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aidanberger/)
 
-### Connect with me:
-
-[<img align="left" alt="YourName | LinkedIn" width="22px" src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/social/linkedin.png" />](https://www.linkedin.com/in/aidanberger/)
-
-<br />
+- ⚡ Other Interests: I enjoy playing the guitar in my free time, keeping up with regular workouts, and relaxing with a good sitcom or action movie.
 
 ### Languages and Tools:
 
@@ -25,15 +22,7 @@
 <img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
 
-<!-- Add or remove as per your skills -->
+<!-- ... add other icons similarly ... -->
 
-<br />
-<br />
-
----
-
-<!---
-yourusername/yourusername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
