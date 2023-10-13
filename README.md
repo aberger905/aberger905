@@ -1,13 +1,9 @@
 ### Hi there 👋, I'm Aidan!
 
-
-## I'm a Developer, Learner, and Creator!
-
 - 🔭 I’m currently working on [My Project](https://github.com/yourusername/yourproject)
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2023 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar
 
 ### Connect with me:
 
@@ -25,6 +21,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />
 <img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" />
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 
@@ -34,8 +32,6 @@
 <br />
 
 ---
-
-[![Yourname's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)](https://github.com/yourusername/github-readme-stats)
 
 <!---
 yourusername/yourusername is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
