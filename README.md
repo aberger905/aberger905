@@ -1,7 +1,7 @@
-### Hi there 👋, I'm [Your Name]!
+### Hi there 👋, I'm Aidan!
 
 [![Website](https://img.shields.io/website?label=yourwebsite.com&style=for-the-badge&url=https%3A%2F%2Fyourwebsite.com)](https://yourwebsite.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/yourusername)
+
 
 ## I'm a Developer, Learner, and Creator!
 
@@ -17,10 +17,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="yourwebsite.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://yourwebsite.com)
-[<img align="left" alt="YourUsername | Twitter" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" />](https://twitter.com/yourusername)
-[<img align="left" alt="YourUsername | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />](https://www.linkedin.com/in/yourusername/)
-[<img align="left" alt="YourUsername | Instagram" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/instagram.svg" />](https://www.instagram.com/yourusername/)
+[<img align="left" alt="aidanberger | LinkedIn" width="22px" src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/linkedin.svg" />](https://www.linkedin.com/in/aidanberger/)
 
 <br />
 
@@ -30,6 +27,13 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png" />
+<img align="left" alt="TailwindCSS" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" />
+<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
+<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
+
 <!-- Add or remove as per your skills -->
 
 <br />
