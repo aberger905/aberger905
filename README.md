@@ -1,7 +1,6 @@
 ## Hi 👋, I'm Aidan!
 
 - 🎨 I’m currently building a mobile application with react native
-- 🚀 I’m currently learning Bun 
 - 🦉 I’m always looking to contribute to Open-Souce Projects
 - 💬 Ask me about React, System Design, Message Brokers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aidanberger/)
