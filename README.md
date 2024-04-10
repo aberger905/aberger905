@@ -2,7 +2,6 @@
 Welcome to my new Github
 - 🎨 I’m currently building my own Saas 
 - 🦉 I’m always looking to contribute to Open-Souce Projects
-- 💬 Ask me about React, System Design, Message Brokers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/aidanberger/)
 
 - ⚡ Other Interests: I enjoy playing the guitar in my free time, keeping up with regular workouts, and relaxing with a good sitcom or action movie.
