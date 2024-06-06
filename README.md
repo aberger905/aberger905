@@ -21,6 +21,8 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png" />
 <img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" />
+<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png" />
+
 
 <!-- ... add other icons similarly ... -->
 
