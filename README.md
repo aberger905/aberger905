@@ -1,4 +1,4 @@
-## Hi 👋, I'm Aidan! Welcome to my new Github
+## My new Github! Welcome
 
 - 🎨 I’m currently building my own Saas 
 - 🦉 I’m always looking to contribute to Open-Souce Projects
